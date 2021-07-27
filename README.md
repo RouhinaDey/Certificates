@@ -1,2 +1,2 @@
 # Certificates
-This repository contains all the professional certificates received.
+This repository contains all the certificates received.
